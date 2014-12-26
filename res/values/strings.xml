@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NFCFacebookCheckIn</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="app_id">136148279900160</string>
+	<string name="check_in">打卡</string>
+	<string name="check_record">查看打卡紀錄</string>
+
+</resources>
